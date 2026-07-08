@@ -55,6 +55,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [spark-video](https://github.com/JohnKeating1997/spark-video) ⭐25 — Skill: premise → screenplay → storyboard → render → review → final mp4, with consistent characters.
 - [video-research-mcp](https://github.com/Galbaz1/video-research-mcp) ⭐21 — 51 research/analysis/media tools for Claude Code, including video analysis.
 - [saas-product-demo-video](https://github.com/noamdorr/saas-product-demo-video) ⭐17 — Skill for shipping a 20–45s SaaS demo video in Remotion.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) ⭐7 — Local-first studio and CLI for generating two-host AI podcast videos from one topic: script, TTS, lip-sync, captions, and MP4 render.
 
 ## 🎬 Agentic Video Production Platforms
 
