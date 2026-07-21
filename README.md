@@ -125,6 +125,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [twick](https://github.com/ncounterspecialist/twick) ⭐0.5k — AI video editor SDK: canvas timeline, drag-and-drop, AI captions.
 - [MasterSelects](https://github.com/Sportinger/MasterSelects) ⭐0.4k — Real-time browser compositor incl. Gaussian splatting.
 - [openvideo](https://github.com/openvideodev/openvideo) ⭐0.3k — Open AI video editor with client-side rendering.
+- [Timeline Studio](https://github.com/MartinDelophy/ai-video-editor) ⭐54 — Local-first React video editor with browser ONNX voiceovers, Whisper captions, multi-track editing, and MP4/WebM export.
 
 ## 🎚️ DaVinci Resolve Stack
 
