@@ -49,6 +49,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [claude-skills (video)](https://github.com/jianshuo/claude-skills) ⭐82 — 13 Claude Code skills: transcribe / translate / dub / multicam / subtitles / reframe.
 - [ComfyUI-Expert](https://github.com/MCKRUZ/ComfyUI-Expert) ⭐72 — Session-scoped Claude Code agent for ComfyUI video production (12 skills).
 - [remotion-transitions](https://github.com/Ashad001/remotion-transitions) ⭐63 — Production-ready Remotion transition patterns with Claude Code skills.
+- [RunAPI MCP](https://github.com/runapi-ai/mcp) ⭐52 — MCP server for running image, video, music/audio, TTS, and model API jobs from Claude Code, Codex, Cursor, and Gemini CLI.
 - [remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) ⭐43 — Claude Code plugin: a full video production studio for Remotion (AI voiceovers, music, stock, gen).
 - [SwiftClip](https://github.com/zz41354899/SwiftClip) ⭐34 — Remotion templates + Claude Code workflow for storyboard-driven video.
 - [audiovisual-production-skills](https://github.com/rheadsh/audiovisual-production-skills) ⭐27 — Claude Code skills for TouchDesigner & real-time graphics.
