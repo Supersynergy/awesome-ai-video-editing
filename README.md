@@ -69,6 +69,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) ⭐3.9k — Long-form YouTube → viral 9:16 shorts (open Opus Clip alternative).
 - [brainrot.js](https://github.com/noahgsolomon/brainrot.js) ⭐1.0k — Text → video, brainrot style (Remotion).
 - [podcast-maker](https://github.com/FelippeChemello/podcast-maker) ⭐0.7k — Newsletters → daily videos, fully automated.
+- [CUT3](https://cut3.ai) — Hosted agentic editor: prompt the timeline, parallel subagents per composition, every edit returned as a reviewable diff. Free tier.
 
 ## 🧠 Video Generation Models & Inference
 
