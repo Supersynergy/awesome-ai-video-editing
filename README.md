@@ -40,6 +40,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [short-video-maker](https://github.com/gyoridavid/short-video-maker) ⭐1.2k — TikTok / Reels / Shorts generation via MCP + REST API.
 - [douyin-mcp-server](https://github.com/yzfly/douyin-mcp-server) ⭐1.1k — Douyin video ingest (watermark-free links + transcripts) as Claude skill/MCP.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) ⭐1.0k — Terminal CLI + MCP server for 14 generative models (image/video/audio).
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) ⭐0.5k — Local-first CLI, MCP server, and agent skills for editable-plan video composition, generation, editing, and automatic assembly.
 - [vargHQ/sdk](https://github.com/vargHQ/sdk) ⭐0.3k — "JSX for videos": one TypeScript API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK.
 - [yt-dlp-mcp](https://github.com/kevinwatt/yt-dlp-mcp) ⭐0.2k — Bridge video/audio content to LLMs via yt-dlp.
 - [comfyui-mcp](https://github.com/artokun/comfyui-mcp) ⭐0.1k — Claude Code plugin + MCP for ComfyUI: 88 tools, 14 skills (Flux, WAN, LTX-Video, Qwen), live graph editing.
