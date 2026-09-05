@@ -163,6 +163,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [gyroflow](https://github.com/gyroflow/gyroflow) ⭐9.2k, Gyro-based video stabilization (Rust).
 - [backgroundremover](https://github.com/nadermx/backgroundremover) ⭐8.0k, Remove background from video with one CLI command.
 - [FILM](https://github.com/google-research/frame-interpolation) ⭐3.1k · archived, Frame interpolation for large motion (Google).
+- [TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) ⭐320, Free open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI + Standalone + After Effects panel, TensorRT/CUDA/DirectML/OpenVINO/MPS.
 - [FrameShift](https://github.com/Gaurox/FrameShift) ⭐81, Offline media processing: FFmpeg + local AI + right-click workflows.
 
 ## Reference Pipeline: Claude Code as Director
