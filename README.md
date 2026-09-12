@@ -145,6 +145,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) ⭐1.6k, Realistic talking portraits via coherent motion synthesis.
 - [TalkingHead](https://github.com/met4citizen/TalkingHead) ⭐1.4k, Real-time 3D avatar lip-sync for the web.
 - [VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion) ⭐859, Face swap + editing suite, actively developed.
+- [NanoAvatar](https://github.com/wpydcr/NanoAvatar) ⭐1, Audio-driven talking avatars with local Android and NVIDIA GPU inference, plus streaming generation.
 
 ## Audio, Voice & Music for Video
 
