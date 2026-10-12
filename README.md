@@ -123,6 +123,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [beutl](https://github.com/b-editor/beutl) ⭐1.2k, Cross-platform compositing (C#).
 - [twick](https://github.com/ncounterspecialist/twick) ⭐522, AI video editor SDK: canvas timeline, drag-and-drop, AI captions.
 - [MasterSelects](https://github.com/Sportinger/MasterSelects) ⭐436, Real-time browser compositor incl. Gaussian splatting.
+- [Manul](https://github.com/hormuz-labs/manul) ⭐7, Desktop editor (macOS/Linux) driven by plain-language requests and frame-pinned notes; edits locally, before/after per change, open source (Apache-2.0).
 
 ## DaVinci Resolve Stack
 
