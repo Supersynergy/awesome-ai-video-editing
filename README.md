@@ -55,6 +55,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [spark-video](https://github.com/JohnKeating1997/spark-video) ⭐31, Skill: premise → screenplay → storyboard → render → review → final mp4, with consistent characters.
 - [video-research-mcp](https://github.com/Galbaz1/video-research-mcp) ⭐22, 51 research/analysis/media tools for Claude Code, including video analysis.
 - [saas-product-demo-video](https://github.com/noamdorr/saas-product-demo-video) ⭐40, Skill for shipping a 20–45s SaaS demo video in Remotion.
+- [Arcmira: YouTube Transcript Search](https://github.com/arcmira/arcmira) ⭐1, CLI and TypeScript SDK for finding timestamped quotes and speaker appearances across indexed YouTube videos; [hosted API](https://arcmira.com/) with a free tier ([API docs](https://arcmira.com/docs)).
 
 ## Agentic Video Production Platforms
 
