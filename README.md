@@ -1,5 +1,6 @@
 # Awesome AI Video Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 <p align="center">
   <img src="docs/assets/social-preview.png" alt="Awesome AI Video Editing, agent-native video production tools" width="800">
 </p>
