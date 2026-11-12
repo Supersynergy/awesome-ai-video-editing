@@ -8,7 +8,7 @@
 
 ⭐ Star counts harvested live on **2026-06-12** (GitHub API). PRs welcome.
 
-**The 2026 meta-shift:** new video tools no longer ship as apps, they ship as **agent skills and MCP servers**. The fastest-growing repos of the last 90 days (OpenMontage, ArcReel, html-video, Generative-Media-Skills, waoowaoo, Toonflow) are all agent-first. Premium differentiation moved from model quality to **orchestration + cross-shot consistency**.
+This directory covers agent integrations alongside conventional editors, generation models and finishing tools. Star counts are a dated snapshot, not a current ranking or quality guarantee.
 
 ## Contents
 
@@ -26,6 +26,9 @@
 - [Contributing](#contributing)
 
 ## Agent-Native: Claude Code / MCP / CLI
+
+<details open>
+<summary>🎬 Browse resources</summary>
 
 The category that didn't exist a year ago: video production exposed as agent skills.
 
@@ -56,7 +59,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [video-research-mcp](https://github.com/Galbaz1/video-research-mcp) ⭐22, 51 research/analysis/media tools for Claude Code, including video analysis.
 - [saas-product-demo-video](https://github.com/noamdorr/saas-product-demo-video) ⭐40, Skill for shipping a 20–45s SaaS demo video in Remotion.
 
+
+</details>
+
 ## Agentic Video Production Platforms
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐100.7k, One-click AI short videos; the reference classic.
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) ⭐26.3k, Fully automated short-video engine (ComfyUI + TTS).
@@ -70,7 +79,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [brainrot.js](https://github.com/noahgsolomon/brainrot.js) ⭐956, Text → video, brainrot style (Remotion).
 - [podcast-maker](https://github.com/FelippeChemello/podcast-maker) ⭐697, Newsletters → daily videos, fully automated.
 
+
+</details>
+
 ## Video Generation Models & Inference
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [Wan2.2](https://github.com/Wan-Video/Wan2.2) ⭐16.9k, Leading open video diffusion (Alibaba).
 - [CogVideo](https://github.com/zai-org/CogVideo) ⭐12.9k, Text-to-video family.
@@ -86,7 +101,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [LongLive 2.0](https://github.com/NVlabs/LongLive) ⭐2.5k, NVIDIA long-video generation infra, real-time.
 - [Helios](https://github.com/PKU-YuanGroup/Helios) ⭐2.0k, Real-time long video generation.
 
+
+</details>
+
 ## ComfyUI Video Ecosystem
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) ⭐6.6k, THE Wan node pack (kijai).
 - [ComfyUI-FLOAT](https://github.com/yuvraj108c/ComfyUI-FLOAT) ⭐268, Audio-driven talking portraits.
@@ -97,7 +118,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [ComfyUI-Bernini](https://github.com/AIMixer/ComfyUI-Bernini) ⭐135, Wan 2.2 Bernini generation + editing.
 - [muapi-comfyui](https://github.com/SamurAIGPT/muapi-comfyui) ⭐66, Cloud API models inside ComfyUI.
 
+
+</details>
+
 ## Programmatic Video (Code IS the Video)
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [manim](https://github.com/3b1b/manim) ⭐89.0k, Math/explainer videos from Python.
 - [Remotion](https://github.com/remotion-dev/remotion), React → video; study [github-unwrapped](https://github.com/remotion-dev/github-unwrapped) ⭐1.3k as a production-grade reference codebase.
@@ -109,7 +136,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [movis](https://github.com/rezoo/movis) ⭐483, Layer-based video rendering in Python.
 - [moviego](https://github.com/mowshon/moviego) ⭐294, Go toolkit for scripted media composition.
 
+
+</details>
+
 ## Editors: AI-Augmented, Browser & Classic
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [LosslessCut](https://github.com/mifi/lossless-cut) ⭐42.5k, Lossless trim/cut, instant.
 - [Shotcut](https://github.com/mltframework/shotcut) ⭐14.7k, Cross-platform FOSS NLE.
@@ -124,7 +157,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [twick](https://github.com/ncounterspecialist/twick) ⭐522, AI video editor SDK: canvas timeline, drag-and-drop, AI captions.
 - [MasterSelects](https://github.com/Sportinger/MasterSelects) ⭐436, Real-time browser compositor incl. Gaussian splatting.
 
+
+</details>
+
 ## DaVinci Resolve Stack
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [auto-subs](https://github.com/tmoroney/auto-subs) ⭐3.9k, On-device subtitle generation wired into Resolve, Premiere & After Effects.
 - [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) ⭐1.9k, Resolve Studio as an MCP server (also listed in Agent-Native, it's that important).
@@ -133,7 +172,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [awesome-davinci-resolve](https://github.com/Greenysmac/awesome-davinci-resolve) ⭐238, Community plugin radar.
 - [pydavinci](https://github.com/pedrolabonia/pydavinci) ⭐178, Script Resolve from Python.
 
+
+</details>
+
 ## Avatars, Talking Heads & Face Tools
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) ⭐95.4k, Single-image face swap, live.
 - [facefusion](https://github.com/facefusion/facefusion) ⭐29.5k, Industry-leading face manipulation platform.
@@ -146,7 +191,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [TalkingHead](https://github.com/met4citizen/TalkingHead) ⭐1.4k, Real-time 3D avatar lip-sync for the web.
 - [VisoMaster-Fusion](https://github.com/VisoMasterFusion/VisoMaster-Fusion) ⭐859, Face swap + editing suite, actively developed.
 
+
+</details>
+
 ## Audio, Voice & Music for Video
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [voice-pro](https://github.com/abus-aikorea/voice-pro) ⭐11.5k, Transcribe / translate / TTS suite.
 - [Amphion](https://github.com/open-mmlab/Amphion) ⭐10.0k, Audio, music & speech generation toolkit.
@@ -155,7 +206,13 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [WhisperLive](https://github.com/collabora/WhisperLive) ⭐4.2k, Live transcription.
 - [ffsubsync](https://github.com/smacke/ffsubsync) ⭐7.8k, Auto-sync subtitles to audio.
 
+
+</details>
+
 ## Enhance, Upscale & Finish
+
+<details>
+<summary>🎬 Browse resources</summary>
 
 - [Anime4K](https://github.com/bloc97/Anime4K) ⭐21.2k, Real-time upscale shaders.
 - [video2x](https://github.com/k4yt3x/video2x) ⭐20.7k, ML super-resolution + frame interpolation.
@@ -164,6 +221,9 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [backgroundremover](https://github.com/nadermx/backgroundremover) ⭐8.0k, Remove background from video with one CLI command.
 - [FILM](https://github.com/google-research/frame-interpolation) ⭐3.1k · archived, Frame interpolation for large motion (Google).
 - [FrameShift](https://github.com/Gaurox/FrameShift) ⭐81, Offline media processing: FFmpeg + local AI + right-click workflows.
+
+
+</details>
 
 ## Reference Pipeline: Claude Code as Director
 
