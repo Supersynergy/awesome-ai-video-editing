@@ -1,7 +1,7 @@
 # Awesome AI Video Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="docs/assets/social-preview.png" alt="Awesome AI Video Editing" width="800">
+  <img src="docs/assets/social-preview.png" alt="Awesome AI Video Editing" width="300" align="right">
 </p>
 
 > A curated list of **AI-powered video editing & production tools** for developers and creators, with a unique focus on the 2026 wave of **agent-native tooling**: Claude Code skills, MCP servers, and CLI-first pipelines that let a coding agent direct the whole production.
