@@ -31,6 +31,8 @@ This directory covers agent integrations alongside conventional editors, generat
 <details open>
 <summary>🎬 Browse resources</summary>
 
+- [Kling AI Claude plugin](https://github.com/klingai-tech/claude-plugin) ⭐2 (2026-11-14), official MIT-licensed client for image and video generation through a hosted MCP service; OAuth and paid account credits required.
+
 The category that didn't exist a year ago: video production exposed as agent skills.
 
 - [OpenMontage](https://github.com/calesthio/OpenMontage) ⭐44.3k, First open agentic video production system: 12 pipelines, 52 tools, 500+ agent skills. Your coding agent becomes the director. AGPL.
