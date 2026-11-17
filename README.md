@@ -45,6 +45,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [douyin-mcp-server](https://github.com/yzfly/douyin-mcp-server) ⭐1.2k · archived, Douyin video ingest (watermark-free links + transcripts) as Claude skill/MCP.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) ⭐1.0k, Terminal CLI + MCP server for 14 generative models (image/video/audio).
 - [vargHQ/sdk](https://github.com/vargHQ/sdk) ⭐332, "JSX for videos": one TypeScript API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK.
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) ⭐305, Claude Code skill + local MCP server for a Windows clipper: Twitch/Kick/YouTube VODs → captioned 9:16 shorts with speaker tracking, on your own PC.
 - [yt-dlp-mcp](https://github.com/kevinwatt/yt-dlp-mcp) ⭐264, Bridge video/audio content to LLMs via yt-dlp.
 - [comfyui-mcp](https://github.com/artokun/comfyui-mcp) ⭐466, Claude Code plugin + MCP for ComfyUI: 88 tools, 14 skills (Flux, WAN, LTX-Video, Qwen), live graph editing.
 - [ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp) ⭐140, Local video editing through conversation: FFmpeg as an MCP server.
