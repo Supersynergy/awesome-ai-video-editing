@@ -31,6 +31,9 @@ This directory covers agent integrations alongside conventional editors, generat
 <details open>
 <summary>🎬 Browse resources</summary>
 
+- [Kling AI Global Plugin](https://github.com/klingai-tech/claude-plugin) ⭐5 (2026-11-22), official Claude plugin for image/video generation and editing, Elements, and motion control via OAuth at [https://kling.ai/mcp/plugin](https://kling.ai/mcp/plugin); generation consumes credits from the Global Kling account; see the [official setup guide](https://kling.ai/app/mcp/guide).
+- [Kling AI China Plugin](https://github.com/klingai-tech/claude-plugin-cn) ⭐3 (2026-11-22), official Claude plugin for image/video generation and editing, Elements, and motion control via OAuth at [https://klingai.com/mcp/plugin](https://klingai.com/mcp/plugin); generation consumes credits from the China Kling account; see the [official setup guide](https://kling.ai/app/mcp/guide).
+
 The category that didn't exist a year ago: video production exposed as agent skills.
 
 - [OpenMontage](https://github.com/calesthio/OpenMontage) ⭐44.3k, First open agentic video production system: 12 pipelines, 52 tools, 500+ agent skills. Your coding agent becomes the director. AGPL.
