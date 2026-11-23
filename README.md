@@ -59,6 +59,7 @@ The category that didn't exist a year ago: video production exposed as agent ski
 - [spark-video](https://github.com/JohnKeating1997/spark-video) ⭐31, Skill: premise → screenplay → storyboard → render → review → final mp4, with consistent characters.
 - [video-research-mcp](https://github.com/Galbaz1/video-research-mcp) ⭐22, 51 research/analysis/media tools for Claude Code, including video analysis.
 - [saas-product-demo-video](https://github.com/noamdorr/saas-product-demo-video) ⭐40, Skill for shipping a 20–45s SaaS demo video in Remotion.
+- [Vertov](https://github.com/ankurmans/vertov-screen-recorder) ⭐0, Open Claude Code client for turning screen recordings into timestamped transcripts and briefs, and uploading recordings for share links. The hosted MCP service requires OAuth.
 
 
 </details>
